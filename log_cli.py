@@ -1,8 +1,3 @@
-"""This file only creates a cli to make the logging process frictionless
-I have also used the following powershell command to run only log <minutes value> <focus score value> in the command line
-`function {python "C:\Users\Mohit\Desktop\Mohit\Projects\LifeInsightsProject\log_cli.py" @args}`
-"""
-
 import sys
 import requests
 from datetime import date
